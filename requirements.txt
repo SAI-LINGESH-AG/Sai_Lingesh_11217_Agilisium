@@ -1,4 +1,2 @@
 google.generativeai
-docx
-io
 streamlit
